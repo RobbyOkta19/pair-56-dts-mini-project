@@ -10,6 +10,12 @@
 
 # production
 /build
+#config
+
+/src/authentication/firebase.js
+/src/services/movies.js
+
+
 
 # misc
 .DS_Store
